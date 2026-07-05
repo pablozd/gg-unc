@@ -15,7 +15,7 @@ Materiales del **Trayecto de Formación Gramatical — Gramática Generativa**, 
 
 ## Descripción
 
-El curso introduce la perspectiva de la **Gramática Generativa** como marco teórico para describir y explicar el conocimiento lingüístico de los hablantes. Se centra especialmente en la **sintaxis del español**, con el objetivo de presentar el sistema conceptual básico del enfoque generativo y ofrecer herramientas para el reconocimiento, análisis y descripción de estructuras sintácticas.
+El curso estuvo orientado a explicar algunos temas generales de la **gramática del español** desde una **perspectiva generativa**. En particular, propone un recorrido por nociones básicas de morfología y sintaxis, con énfasis en la descripción y el análisis de estructuras sintácticas del español.
 
 El recorrido parte de la distinción entre gramática normativa, descriptiva y teórica, y avanza hacia el análisis de constituyentes, categorías, funciones sintácticas, estructura oracional, predicación secundaria y subordinación no finita.
 
