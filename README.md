@@ -1,6 +1,6 @@
 # Gramática Generativa — UNC
 
-Materiales del curso de posgrado **Gramática Generativa**, dictado por Pablo Zdrojewski en la Facultad de Lenguas de la Universidad Nacional de Córdoba.
+Materiales del **Trayecto de Formación Gramatical — Gramática Generativa**, dictado por Pablo Zdrojewski en la Facultad de Lenguas de la Universidad Nacional de Córdoba.
 
 ## Datos generales
 
@@ -11,13 +11,13 @@ Materiales del curso de posgrado **Gramática Generativa**, dictado por Pablo Zd
 - **Modalidad:** virtual
 - **Carga horaria total:** 40 horas
 - **Encuentros sincrónicos virtuales:** 20 horas
-- **Fechas de dictado:** 22, 23, 29 y 30 de septiembre; 6, 7, 20, 21 de octubre de 2023
+- **Fechas de dictado:** 22, 23, 29 y 30 de septiembre; 6, 7, 20 y 21 de octubre de 2023
 
 ## Descripción
 
 El curso introduce la perspectiva de la **Gramática Generativa** como marco teórico para describir y explicar el conocimiento lingüístico de los hablantes. Se centra especialmente en la **sintaxis del español**, con el objetivo de presentar el sistema conceptual básico del enfoque generativo y ofrecer herramientas para el reconocimiento, análisis y descripción de estructuras sintácticas.
 
-El programa parte de la distinción entre gramática normativa, descriptiva y teórica, y avanza hacia el análisis de constituyentes, categorías, funciones sintácticas, estructura oracional y subordinación.
+El recorrido parte de la distinción entre gramática normativa, descriptiva y teórica, y avanza hacia el análisis de constituyentes, categorías, funciones sintácticas, estructura oracional, predicación secundaria y subordinación no finita.
 
 ## Objetivos
 
@@ -72,28 +72,20 @@ El curso busca que los estudiantes:
 - Subordinadas sustantivas, adjetivas y adverbiales.
 - Subordinadas de complemento y subordinadas adjuntas.
 
-## Metodología
+## Contenido de las clases
 
-El curso combina clases teórico-prácticas sincrónicas con guías de actividades. En los encuentros se presentan las nociones teóricas de cada unidad y se trabajan actividades seleccionadas para afianzar los contenidos y promover la reflexión sobre problemas empíricos y teóricos.
+| Clase | Archivo | Contenido |
+|---|---|---|
+| Programa | [`gg-unc-00-Programa.pdf`](gg-unc-00-Programa.pdf) | Programa general del curso: fundamentación, objetivos, unidades temáticas, metodología y bibliografía. |
+| Clase 1 | [`gg-unc-Clase1-introduccion.pdf`](gg-unc-Clase1-introduccion.pdf) | El lenguaje y la gramática. Sintaxis como capacidad cognitiva; recursividad; metodología de la sintaxis; gramaticalidad; competencia y actuación. |
+| Clase 2 | [`gg-unc-Clase2-lexico.pdf`](gg-unc-Clase2-lexico.pdf) | El léxico. Ítems léxicos; clases de palabras; criterios morfológicos y sintácticos de clasificación; categorías léxicas y funcionales; clases abiertas y cerradas. |
+| Clase 3 | [`gg-unc-Clase3-sintagma.pdf`](gg-unc-Clase3-sintagma.pdf) | Estructura de frase: núcleos y sintagmas. Objeto de la sintaxis; estructura jerárquica frente a secuencia lineal; análisis de constituyentes; noción de sintagma y núcleo. |
+| Clase 4 | [`gg-unc-Clase4.pdf`](gg-unc-Clase4.pdf) | La oración simple I. Léxico y sintaxis; predicados y argumentos; estructura argumental; adicidad; selección categorial; estructura temática; estructura eventiva; verbos transitivos, inergativos e inacusativos. |
+| Clase 5 | [`gg-unc-clase5.pdf`](gg-unc-clase5.pdf) | La oración simple II. Oración; obligatoriedad del sujeto; proyección del léxico en la sintaxis; caso y concordancia; sintagma de Flexión/Tiempo; caso nominativo; voz/v pequeña; caso acusativo; pasivas e inacusativos; objetos indirectos; movimiento. |
+| Clase 6 | [`gg-unc-clase6.pdf`](gg-unc-clase6.pdf) | Predicativos. Noción de predicativo; predicativos subjetivos obligatorios y no obligatorios; predicativos objetivos obligatorios y no obligatorios; relación entre predicación primaria y predicación secundaria. |
+| Clases 7–8 | [`gg-unc-clase7-8.pdf`](gg-unc-clase7-8.pdf) | Perífrasis, ascenso y control. Perífrasis frente a oraciones no flexionadas; cláusulas no finitas; estructuras de ascenso; estructuras de control de sujeto y de objeto; causativas; extensiones sobre perífrasis. |
 
-El curso comprende **8 encuentros sincrónicos virtuales**. La asistencia obligatoria es del **80%**.
-
-## Evaluación
-
-Para acreditar el curso se requiere:
-
-- aprobar **2 actividades obligatorias** calificadas con puntaje;
-- aprobar un **trabajo final integrador**;
-- acceder a recuperatorio en caso de no aprobar una o ambas actividades obligatorias.
-
-### Criterios de evaluación
-
-- Pertinencia y adecuación de las ideas expresadas.
-- Claridad expositiva y conceptual.
-- Redacción.
-- Uso apropiado de la terminología.
-
-## Bibliografía principal
+## Lecturas principales
 
 Entre los textos centrales del curso se incluyen:
 
@@ -107,9 +99,7 @@ Entre los textos centrales del curso se incluyen:
 - Brucart, José M. 2016. “Oraciones de relativo”. En Javier Gutiérrez Rexach (ed.), *Enciclopedia de lingüística hispánica*. Londres / Nueva York: Routledge.
 - Brucart, José M. & Ángel Gallego. 2016. “Aspectos formales e interpretativos de la subordinación adverbial”. En María Victoria Pavón Lucero (ed.), *Las relaciones interoracionales en español*. Berlín: De Gruyter Mouton.
 
-## Materiales
-
-Este repositorio puede organizarse del siguiente modo:
+## Estructura del repositorio
 
 ```text
 .
@@ -124,6 +114,10 @@ Este repositorio puede organizarse del siguiente modo:
 └── gg-unc-clase7-8.pdf
 ```
 
+## Uso
+
+Los materiales están pensados para consulta docente y académica. Para reutilizarlos, citar la autoría y la fuente correspondiente.
+
 ## Licencia
 
-Salvo indicación contraria, los materiales son de uso docente y académico. Si se reutilizan, citar la autoría y la fuente correspondiente.
+Salvo indicación contraria, los materiales son de uso docente y académico.
