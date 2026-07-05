@@ -1,6 +1,6 @@
 # Gramática Generativa — UNC
 
-Materiales del **Trayecto de Formación Gramatical — Gramática Generativa**, dictado por Pablo Zdrojewski en la Facultad de Lenguas de la Universidad Nacional de Córdoba.
+Materiales de la asignatura **Gramática Generativa** del **Trayecto de Formación Gramatical** en la **Facultad de Lenguas** de la **Universidad Nacional de Córdoba**, dictado por Pablo Zdrojewski .
 
 ## Datos generales
 
